@@ -1,5 +1,5 @@
 # MPLS-Layer-3-VPN
-### steps
+### Steps
 - CE router & PE router exchange routes using dynamic routing (ospf)
 
 - PE places the customer routes in VRF table .
