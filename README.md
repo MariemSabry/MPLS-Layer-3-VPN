@@ -10,7 +10,7 @@ to as the C-network.
 This section explores how you can use MPLS Layer 3 VPNs to connect your private 
 networks over your provider’s public network.
 ### Steps
-- CE router & PE router exchange routes using dynamic routing (ospf)
+- CE router & PE router exchange routes using dynamic routing (OSPF).
 
 - PE places the customer routes in VRF table .
 
