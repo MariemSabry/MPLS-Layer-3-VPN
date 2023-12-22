@@ -1,8 +1,12 @@
 # MPLS-Layer-3-VPN
 MPLS Layer 3 VPNs provide peer-to-peer connectivity between private customer sites 
 across a shared network. 
+
+
 The MPLS domain is referred to as the P-network, and the customer sites are referred 
 to as the C-network.
+
+
 This section explores how you can use MPLS Layer 3 VPNs to connect your private 
 networks over your provider’s public network.
 ### Steps
